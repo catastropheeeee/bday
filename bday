@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hyperlink Page</title>
+    <style>
+        body {
+            background-color: #a2c8e1; /* Pastel blue background */
+            font-family: Arial, sans-serif;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        a {
+            color: #3366cc; /* Link color */
+            font-size: 1.5rem;
+            text-decoration: none;
+        }
+        a:hover {
+            color: #ff6600; /* Change link color on hover */
+        }
+    </style>
+</head>
+<body>
+    <p>Click the link below:</p>
+    <a href="file:///C:/Users/pantd/Downloads/!DOCTY.html" target="_blank">Visit Website</a>
+</body>
+</html>
